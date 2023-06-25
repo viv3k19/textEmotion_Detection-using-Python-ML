@@ -21,7 +21,7 @@ Make sure you have the following libraries installed:
 
 Clone the repository:
 ```shell
-git clone https://github.com/viv3k19/textEmotion_Detection-using-Python-ML
+git clone https://github.com/viv3k19/textEmotion_Detection-using-Python-ML.git
 ```
 
 ## Usage
